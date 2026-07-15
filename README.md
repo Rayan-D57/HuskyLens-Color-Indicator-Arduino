@@ -6,13 +6,10 @@ This project demonstrates a simple yet powerful implementation of Computer Visio
 The project uses the I2C communication protocol to fetch data from the HuskyLens. When the camera identifies a learned object (assigned to ID 1, 2, or 3), the Arduino processes this data and triggers the specific LED circuit associated with that ID.
 
 ##  Project Demo
-<video width="640" controls>
-  <source src="Arduino.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="Arduino.gif" alt="System View" width="700"/>
 
 ##  System Setup
-<img src="Arduino.jpg" alt="System View" width="300"/>
+<img src="Arduino.jpg" alt="System View" width="700"/>
 
 ##  Hardware Requirements
 * Microcontroller: Arduino Uno
