@@ -8,11 +8,8 @@ The project uses the I2C communication protocol to fetch data from the HuskyLens
 ##  Project Demo
 ![Demo](Arduino.mp4)
 
-<h2>🎥 Demo</h2>
-
-<p align="center">
   <img src="Arduino.gif" alt="Project Demo" width="700"/>
-</p>
+
 
 <video src="Arduino.mp4" controls width="700"></video>
 
