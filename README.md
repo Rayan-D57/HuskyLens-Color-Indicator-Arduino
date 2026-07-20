@@ -1,3 +1,6 @@
+
+
+
 # HuskyLens Color Indicator Arduino
 
 This project demonstrates a simple yet powerful implementation of Computer Vision using the HuskyLens AI camera and Arduino. The system identifies specific objects and provides real-time physical feedback by lighting up corresponding LEDs.
@@ -6,7 +9,7 @@ This project demonstrates a simple yet powerful implementation of Computer Visio
 The project uses the I2C communication protocol to fetch data from the HuskyLens. When the camera identifies a learned object (assigned to ID 1, 2, or 3), the Arduino processes this data and triggers the specific LED circuit associated with that ID.
 
 ##  Project Demo
-![Demo](Arduino.mp4)
+https://github.com/user-attachments/assets/fb8bc512-1edb-41ff-be3c-4b0508ea9b27
 
 ##  System Setup
 <img src="Arduino.jpg" alt="System View" width="700"/>
